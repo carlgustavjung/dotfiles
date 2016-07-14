@@ -26,6 +26,7 @@ Plugin 'lervag/vimtex'
 Plugin 'mattn/emmet-vim'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'ekalinin/Dockerfile.vim'
+Plugin 'mrk21/yaml-vim'
 
 " Markdown utilities
 Plugin 'tpope/vim-markdown' 
